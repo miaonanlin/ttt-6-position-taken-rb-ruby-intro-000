@@ -3,6 +3,6 @@ def position_taken?(index)
   if index == ""
     false
   elsif index == " "
-    false  
-  end 
-end 
+    false
+  end
+end
