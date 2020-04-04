@@ -4,3 +4,5 @@ def position_taken?(index)
     false
   elsif index == " "
     false  
+  end 
+end 
